@@ -9,5 +9,7 @@
 https://timer-set.netlify.app/  <br>
 
 <h2>Webpage Screenshots</h2>
-<img src="/images/Screenshot1.png" alt="Screenshot1">
-<img src="/images/Screenshot2.png" alt="Screenshot2">
+<img src="./images/Screenshot1.png" alt="Screenshot1">
+<img src="./images/Screenshot2.png" alt="Screenshot2">
+
+
